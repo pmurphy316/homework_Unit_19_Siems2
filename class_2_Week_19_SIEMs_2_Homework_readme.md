@@ -47,11 +47,14 @@ Note: This is a public-facing windows server that VSI employees access.
   - For example: "Block all incoming HTTP traffic where the source IP comes from the city of Los Angeles."
 - Provide a screen shot of the geographic map that justifies why you created this rule. 
  
- ![TODO: Update the path with the name of your diagram](Pictures/pic1.png)
  
-
-Block all incoming HTTP traffic where the source IP comes from the city of Kiev.
-
+ 
+ ![TODO: Update the path with the name of your diagram](Pictures_Homework19/pic1.png)
+ 
+  ![TODO: Update the path with the name of your diagram](Pictures_Homework19/pic2.png)
+  
+   ![TODO: Update the path with the name of your diagram](Pictures_Homework19/pic3.png)
+   
 #### Question 2
 
 - VSI has insider information that JobeCorp will launch the same webserver attack but use a different IP each time in order to avoid being stopped by the rule you just created.
