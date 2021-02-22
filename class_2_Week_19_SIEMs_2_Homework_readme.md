@@ -65,9 +65,10 @@ If you have thousands of employees in your organization, as part of the cybersec
   - Conceive of two more rules in "plain english". 
   - Hint: Look for other fields that indicate the attacker.
   
- Whitelist all IPs within our network
-    - Check fields for location, and blacklist any IP coming from that location
-
+ Rule 1: Whitelist all IPs within the network of trusted users.
+ 
+ Rule 2: Search for fields that are listed from the Blacklisted IP addresses.  Use these fields to then find other potential attacks from different IP addresses that are not trusted servers. 
+ 
 
 ### Guidelines for your Submission:
   
