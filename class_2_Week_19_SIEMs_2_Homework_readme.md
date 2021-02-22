@@ -49,11 +49,11 @@ Note: This is a public-facing windows server that VSI employees access.
  
  
  
- ![TODO: Update the path with the name of your diagram](Pictures_Homework19/pic1.png)
+ ![TODO: Update the path with the name of your diagram](Pictures/pic1.png)
  
-  ![TODO: Update the path with the name of your diagram](Pictures_Homework19/pic2.png)
+  ![TODO: Update the path with the name of your diagram](Pictures/pic2.png)
   
-   ![TODO: Update the path with the name of your diagram](Pictures_Homework19/pic3.png)
+   ![TODO: Update the path with the name of your diagram](Pictures/pic3.png)
    
 #### Question 2
 
