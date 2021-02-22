@@ -35,9 +35,7 @@ A practical mitigation strategy would include whitelisting IP addresses. IP whit
 - VSI has insider information that JobeCorp attempted to target users by sending "Bad Logins" to lock out every user.
 - What sort of mitigation could you use to protect against this?
   
-A mitigation for this could include monitoring access controls so accounts do not have the ability to send "Bad Logins" to every user. Possibly create groups of users if able.
-
-If you have thousands of employees in your organization, as part of the cybersecurity assessment, it becomes important for you to pull out a report on the number of bad logon attempts made by every user in the Active Directory environment. The report would help you learn bad logon attempts made by every user and the “count” is very important here. If you see a few users are sending too many bad logon attempts those users can come under the suspicious category.
+A mitigation for this could include monitoring access controls so accounts do not have the ability to send "Bad Logins" to every user.  If you see a few users are sending too many bad logon attempts those users can come under the suspicious category and their ammount of attempts should be accounted for. 
 
 ### Part 2: Apache Webserver Attack:
 
@@ -65,7 +63,7 @@ If you have thousands of employees in your organization, as part of the cybersec
   - Conceive of two more rules in "plain english". 
   - Hint: Look for other fields that indicate the attacker.
   
- Rule 1: Whitelist all IPs within the network of trusted users.
+ Rule 1: Whitelist all IPs within the network of trusted users.  It will also allow trusted users to access the domains with little complications. 
  
  Rule 2: Search for fields that are listed from the Blacklisted IP addresses.  Use these fields to then find other potential attacks from different IP addresses that are not trusted servers. 
  
