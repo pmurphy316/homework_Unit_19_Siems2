@@ -54,7 +54,9 @@ If you have thousands of employees in your organization, as part of the cybersec
   ![TODO: Update the path with the name of your diagram](Pictures/pic2.png)
   
    ![TODO: Update the path with the name of your diagram](Pictures/pic3.png)
-   
+ 
+ If we look at this map, we can see a disproportionate number of attacks coming from Eastern Europe.  After looking into the IP addresses of these attacks we can see they have come from two cities, Kiev and Kharkiv both located in the Ukraine. It is our recommendation to block all incoming HTTP traffic where the source IP comes from the cities of Kiev and Kharkiv.
+ 
 #### Question 2
 
 - VSI has insider information that JobeCorp will launch the same webserver attack but use a different IP each time in order to avoid being stopped by the rule you just created.
