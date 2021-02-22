@@ -65,7 +65,7 @@ A mitigation for this could include monitoring access controls so accounts do no
   
  Rule 1: Whitelist all IPs within the network of trusted users.  It will also allow trusted users to access the domains with little complications. 
  
- Rule 2: Search for fields that are listed from the Blacklisted IP addresses.  Use these fields to then find other potential attacks from different IP addresses that are not trusted servers. 
+ Rule 2: Search for fields that are listed from the Blacklisted IP addresses.  Identifying these fields can prove to be useful in exploiting the same attacker with a different IP address.  
  
 
 ### Guidelines for your Submission:
